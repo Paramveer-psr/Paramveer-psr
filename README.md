@@ -26,5 +26,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 ## 📊 GitHub Stats
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=paramveer-psr&show_icons=true&locale=en&layout=compact&theme=dark" alt="paramveer-psr" /></p>  
+
+
 ---
 Thank you for visiting my profile! Feel free to reach out if you want to collaborate or just say hi. Have a great day! 😊
